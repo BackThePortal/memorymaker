@@ -1,9 +1,9 @@
 <template>
 	<header
-		class="m-8 bg-orange-300 p-4 rounded-2xl flex justify-center border-y-2 border-slate-100/80"
+		class="m-8 bg-orange-300 p-4 rounded-xl flex justify-center border-y-2 border-slate-100/80"
 	>
 		<div class="text-center">
-			<h1 class="font-semibold text-3xl">MemoryMaker</h1>
+			<h1 class="font-semibold text-3xl text-black">MemoryMaker</h1>
 			<p class="text-gray-900">{{ subtitle }}</p>
 		</div>
 	</header>
